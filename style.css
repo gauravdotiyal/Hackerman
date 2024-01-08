@@ -22,3 +22,10 @@ body h2{
    justify-content: center;
    margin: auto;
 }
+.footer{
+    color: white;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    font-size: 15px;
+}
