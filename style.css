@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 30px;
+  color: green;
+  background-color: black; 
+}
+body h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#text{
+   /* max-width: 500px; */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+}
