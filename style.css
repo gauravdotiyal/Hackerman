@@ -3,11 +3,14 @@ html {
   height: 100%;
   width: 100%;
 }
-
+.container{
+   min-height: 100vh;
+   border: 10px solid green;
+}
 body {
   font-family: 'Anonymous Pro', monospace;
   font-size: 30px;
-  color: green;
+  color: green; 
   background-color: black; 
 }
 body h2{

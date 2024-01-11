@@ -1,4 +1,4 @@
-let a = [
+let a = [ 
     "INITIALIZING HACK TOOL...@#43$3",
     "CONNECTING TO FACEBOOK...@#43$3",
     "CONNECTING TO SERVER...@#43$3",
@@ -11,7 +11,8 @@ let a = [
     "USER PASSWORD HACKED...@#43$3",
     "SYSTEM HACKED...@#43$3",
     "SECURITY ALERT...@#43$3",
-    "SYSTEM IS GOING TO SLEEP...@#43$3" 
+    "SYSTEM IS GOING TO SLEEP...@#43$3",
+    "ALL ACCESS DENIED...@#43$3"
   ]
   const sleep= async (seconds)=>{
     return new Promise((resolve,reject)=>{
